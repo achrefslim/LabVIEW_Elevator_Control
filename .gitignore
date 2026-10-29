@@ -1,0 +1,7 @@
+# LabVIEW local files (machine specific settings and network aliases)
+*.aliases
+*.lvlps
+
+# Builds
+builds/
+*.exe
